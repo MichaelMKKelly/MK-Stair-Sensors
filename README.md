@@ -1,6 +1,8 @@
 # MK-Stair-Sensors
 This project was to help expand my smarthome and learn a bit more about combining various things together
 
+As with my smartbed project I decided write this up in case this helps or inspires someone else to do the same or a similar project.
+
 ## Project Goal
 
 Use multiple Sensors at the top and buttom of stairs to enable "stairs in use detection" and illuminate based upon it (if its dark)
