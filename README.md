@@ -95,7 +95,7 @@ I am considering adding more devices using ESPresense or simalr to detect which 
 
 ## What could be done differently?
 
-in both cases a better looking and possibily better functioning setup could have been made but custom designing and 3d printing parts to house the setups.
+In both cases a better looking and possibily better functioning setup could have been made but custom designing and 3d printing parts to house the setups.
 
 I do not currently own a 3d printer adn i do not know how to 3d model however as I do various projects getting a 3d printer and learning the modeling is definetly something that I will be seriously considering in the future.
 
