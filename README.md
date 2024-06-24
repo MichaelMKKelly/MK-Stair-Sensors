@@ -111,7 +111,7 @@ This currently haas no additional hardware to drive so no modification was requi
 
 ![17](landing-in-potision-2.png)
 
-## setting up the detection
+## Setting up the detection
 After a fair amount of tinkering with distance limiting and zone setup I managed to get a zone on each to detect their side of the stairs to the point where someone on/at the stairs will be in the zone but someone walking by them will not be. (this is still a work in progress and further tinkering is required but I am happy with it for now)
 
 These zones are then used by a templated binary sensor helper called "Stairs in Use"
