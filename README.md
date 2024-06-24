@@ -93,6 +93,12 @@ I also want to add extra zones so the sensors which will trigger different autom
 
 I am considering adding more devices using ESPresense or simalr to detect which "zone" of the house people are in and be able to trigger automations based upon who is in what room. I may add this functionality to these setups or I may go a different way about installing this setup. but either way the methods used here in adding devices around the house without perminent modification will come into play.
 
+## What could be done differently?
+
+in both cases a better looking and possibily better functioning setup could have been made but custom designing and 3d printing parts to house the setups.
+
+I do not currently own a 3d printer adn i do not know how to 3d model however as I do various projects getting a 3d printer and learning the modeling is definetly something that I will be seriously considering in the future.
+
 ## Credits and additional reading
 
 Everything Smart Home for designing the EPL/EP1 sensors - https://www.youtube.com/@EverythingSmartHome
