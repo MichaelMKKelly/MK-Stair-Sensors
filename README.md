@@ -82,7 +82,7 @@ These zones are then used by a templated binary sensor helper called "Stairs in 
 
 this helper is then used in an automation to trigger if someone is there and if either sensor detects low lighting via the illuminance sensor on the EPL it will fade up the lights on both sides
 
-A second automation will then fade the lights back down when the "stairs in use" helper clears
+A second automation will then fade the lights back down when the "Stairs in Use" helper clears
 
 ## Conclusion
 This project was great and whilst only a small modification to the EPL has helped me start to get comftable with adding additional thing to other ESP devices and potentially using more EPL's (or EP1's) in future projects to interact with other things in addition to being the great sensors that they are.
@@ -109,5 +109,5 @@ Everythingsmart Shop for buying the EPL/EP1 - https://shop.everythingsmart.io/
 
 ESPhome GPIO Switch Compnent Documentation - https://esphome.io/components/switch/gpio.html
 
-ESP Button Component Documentation - https://esphome.io/components/button/index.html
+ESPHome Button Component Documentation - https://esphome.io/components/button/index.html
 
