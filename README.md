@@ -16,7 +16,7 @@ Use a RGB smartbulb for illumination (and also potential for being used for noti
 
 Using the exposed GPIO to drive doorbell chime via relay
 
-## Downstairs sensor
+## Downstairs Sensor
 There is a prexisting mains powered doorbell chime (that was actually disused) mounted on the wall which I made my target for setting up this sensor as it has power already routed to it.
 
 ![1](orginal-chime.png)
