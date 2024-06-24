@@ -99,6 +99,8 @@ In both cases a better looking and possibily better functioning setup could have
 
 I do not currently own a 3d printer adn i do not know how to 3d model however as I do various projects getting a 3d printer and learning the modeling is definetly something that I will be seriously considering in the future.
 
+Instead of using lighting built into the setups using smart bulbs in already overhead lights does make more sense and eventually I want to do away with all switches but for now and for the sake of other people wanting to be able to use the prexisting lights as normal during transition to smart house this was the way to go. It also allows for potential automations using the RGB to its advantage to give feedback
+
 ## Credits and additional reading
 
 Everything Smart Home for designing the EPL/EP1 sensors - https://www.youtube.com/@EverythingSmartHome
