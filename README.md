@@ -63,7 +63,7 @@ As if by magic we get a new button on home assistant that makes it go "Ding-Dong
 The reason for going for a perminently powered smartbulb instead of a relay driven bulb was for nicer and smoother control and options into the future for differnt ways of displaying things and have it fade up and down in a controlled way independant of the relay powering it up and down.
 
 ## Upstairs Sensor
-This was a bit harder to come up with a plan for mounting/powering but eventually I came up with the idea to piggy back off the high up light switch that controls the light in the loft space.
+This was a bit harder to come up with a plan for mounting/powering but eventually I came up with the idea to piggy back off the high up light switch that controls the light in the loft space. NB: Piggy backing from a light switch in this way only works if there are neutrals at the switch.
 
 Using a single gang light switch/socket spacer which is designed to give a little more space inside the backbox if you are short on space there. I had something solid i could mount to and modify and could be easily removed in the future.
 
