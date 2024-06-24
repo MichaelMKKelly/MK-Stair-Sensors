@@ -14,7 +14,7 @@ Use  Everything Presence Lite's (EPL) for detection
 
 Use a RGB smartbulb for illumination (and also potential for being used for notifications by changing colour etc...)
 
-Using the exposed GPIO to drive doorbell
+Using the exposed GPIO to drive doorbell chime via relay
 
 ## Downstairs sensor
 There is a prexisting mains powered doorbell chime (that was actually disused) mounted on the wall which I made my target for setting up this sensor as it has power already routed to it.
