@@ -21,7 +21,7 @@ There is a prexisting mains powered doorbell chime (that was actually disused) m
 
 I opted to buy a doorbell exactly the same so i could study plan and modify without touching the orginal with the eventual plan to be building the modifications into the front panel then switching it over and then keep the orginal cover so that I can quickly switch it back and it looks like nothing ever happened
 
-A hole in the doorbell casing and the electronics box allows for cables to pass through
+A hole in the doorbell casing and the electronics box which is bolted onto it allows for cables to pass through
 
 This allows for mains power to enter the box and for 2 cables to exit to connect to the chime button connections
 
