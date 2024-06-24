@@ -19,7 +19,9 @@ Using the exposed GPIO to drive doorbell chime via relay
 ## Downstairs sensor
 There is a prexisting mains powered doorbell chime (that was actually disused) mounted on the wall which I made my target for setting up this sensor as it has power already routed to it.
 
-I opted to buy a doorbell exactly the same so i could study plan and modify without touching the orginal with the eventual plan to be building the modifications into the front panel then switching it over and then keep the orginal cover so that I can quickly switch it back and it looks like nothing ever happened
+I opted to buy a doorbell exactly the same so i could study plan and modify without touching the orginal with the eventual plan to be building the modifications into the front panel then switching it over and then keep the orginal cover so that I can quickly switch it back and it looks like nothing ever happened.
+
+Please note that in some photos i am using a devboard in place of a EPL because I did not yet have them as I was awaiting the restock.
 
 A hole in the doorbell casing and the electronics box which is bolted onto it allows for cables to pass through
 
@@ -79,6 +81,13 @@ This currently haas no additional hardware to drive so no modification was requi
 After a fair amount of tinkering with distance limiting and zone setup I managed to get a zone on each to detect their side of the stairs to the point where someone on/at the stairs will be in the zone but someone walking by them will not be. (this is still a work in progress and further tinkering is required but I am happy with it for now)
 
 These zones are then used by a templated binary sensor helper called "Stairs in Use"
+
+````
+{{ is_state('binary_sensor.everything_presence_lite_f1b9fc_zone_1_occupancy', 'on') 
+            or
+            is_state('binary_sensor.everything_presence_lite_64ef84_zone_1_occupancy', 'on') 
+            }}
+````
 
 this helper is then used in an automation to trigger if someone is there and if either sensor detects low lighting via the illuminance sensor on the EPL it will fade up the lights on both sides
 
